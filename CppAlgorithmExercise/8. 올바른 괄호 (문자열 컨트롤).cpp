@@ -4,6 +4,8 @@
 
 // 첫 번쨰 줄에 괄호 문자열이 입력. 문자열의 최대 길이는 30
 
+// 입력 예제 : (()(()))(()
+// 답 : NO
 #include<stdio.h>
 #include<cstdio>
 #include<iostream>

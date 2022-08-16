@@ -3,6 +3,9 @@
 // 예를 들어 bE au T I fu L과 같이.
 // 영단어를 원래의 표현대로 공백을 제거하고 소문자화 시켜 출력하는 프로그램 작성
 
+// 입력 예제 : bE au T I fu L
+// 답 : beautifu
+
 #include<stdio.h>
 #include<cstdio>
 #include<iostream>
