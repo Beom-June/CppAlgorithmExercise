@@ -145,6 +145,11 @@
     <ClCompile Include="13. 가장 많이 사용된 자릿수.cpp" />
     <ClCompile Include="14. 뒤집은 소수.cpp" />
     <ClCompile Include="15. 소수의 개수.cpp" />
+    <ClCompile Include="16. 아나그램.cpp" />
+    <ClCompile Include="17. 선생님 퀴즈.cpp" />
+    <ClCompile Include="18. 층간 소음.cpp" />
+    <ClCompile Include="19. 분노 유발자 (1차원 배열의 필요성).cpp" />
+    <ClCompile Include="20. 가위 바위 보.cpp" />
     <ClCompile Include="5. 나이계산%28문자 컨트롤%29.cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />

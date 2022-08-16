@@ -11,6 +11,7 @@
 #include<iostream>
 using namespace std;
 
+/*
 int main()
 {
 	int n = 0, i = 0, j = 0, flag = 0, count = 0;
@@ -37,3 +38,4 @@ int main()
 
 	return 0;
 }
+*/
