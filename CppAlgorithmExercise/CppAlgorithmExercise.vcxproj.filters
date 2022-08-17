@@ -63,5 +63,17 @@
     <ClCompile Include="20. 가위 바위 보.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21. 카드 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22. 온도의 최댓값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23. 연속 부분 증가수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Jolly Jumpers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
