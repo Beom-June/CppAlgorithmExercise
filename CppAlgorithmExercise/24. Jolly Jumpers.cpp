@@ -10,12 +10,50 @@
 // 출력 설명
 //유쾌한 점퍼이면 “YES"를 출력하고, 그렇지 않으면 ”NO"를 출력한다.
 
+// 입력 : 5 
+//1 4 2 3 7
+
+// 출력 YES
+
 #include<stdio.h>
 #include<iostream>
+#include<vector>
+#include<algorithm>
 using namespace std;
 
+/*
 int main()
 {
+	int n = 0, i, pre, now, pos;
 
+	cin >> n;
+	// 배열 선언
+	vector<int> check(n);
+
+	cin >> pre;						// 첫 번째 숫자 입력
+
+	for (i = 1; i < n; i++)
+	{
+		cin >> now;
+
+		pos = abs(pre - now);		// abs : 절댓값
+
+		if (pos > 0 && pos < n && check[pos] == 0)		// check[pos] == 0 중복 체크
+		{
+			check[pos] == 1;
+		}
+		else
+		{
+			// 졸리 점퍼가 아니다.
+			cout << "NO" << endl;
+			return 0;
+		}
+
+		// 밀고 가면서 체크
+		pre = now;
+	}
+	// 졸리 점퍼다
+	cout << "YES" << endl;
 	return 0;
 }
+*/

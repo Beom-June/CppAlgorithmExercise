@@ -154,6 +154,14 @@
     <ClCompile Include="22. 온도의 최댓값.cpp" />
     <ClCompile Include="23. 연속 부분 증가수열.cpp" />
     <ClCompile Include="24. Jolly Jumpers.cpp" />
+    <ClCompile Include="25. 석차 구하기(브루트포스).cpp" />
+    <ClCompile Include="26. 마라톤.cpp" />
+    <ClCompile Include="27. N!의 표현법 (소인수 분해 응용).cpp" />
+    <ClCompile Include="28. N!에서 0의 개수 (소인수 분해 응용).cpp" />
+    <ClCompile Include="29. 3의 개수는 (small).cpp" />
+    <ClCompile Include="30. 3의 개수는 %28large%29.cpp" />
+    <ClCompile Include="31. 탄화수소 질량.cpp" />
+    <ClCompile Include="32. 선택 정렬.cpp" />
     <ClCompile Include="5. 나이계산%28문자 컨트롤%29.cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />

@@ -9,6 +9,11 @@
 // 출력 설명
 //최대 부분 증가수열의 길이를 출력하세요
 
+// 입력 : 9
+//5 7 3 3 12 12 13 10 11
+
+// 출력 : 5
+
 #include<stdio.h>
 #include<iostream>
 using namespace std;
