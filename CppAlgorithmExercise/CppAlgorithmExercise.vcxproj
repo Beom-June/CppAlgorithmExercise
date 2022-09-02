@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -170,6 +170,8 @@
     <ClCompile Include="39. 두 배열 합치기.cpp" />
     <ClCompile Include="40. 교집합 (투포인터 알고리즘).cpp" />
     <ClCompile Include="41. 연속된 자연수의 합 (단순 수리).cpp" />
+    <ClCompile Include="42. 이분 검색.cpp" />
+    <ClCompile Include="43. 뮤직비디오 (결정 알고리즘).cpp" />
     <ClCompile Include="5. 나이계산%28문자 컨트롤%29.cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />

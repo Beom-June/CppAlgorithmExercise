@@ -126,5 +126,8 @@
     <ClCompile Include="41. 연속된 자연수의 합 (단순 수리).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="42. 이분 검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -27,8 +27,34 @@
 #include<algorithm>
 using namespace std;
 
+/*
 int main()
 {
+	int a, b = 1, count = 0, temp, i;
 
+	cin >> a;
+
+	temp = a;								// 저장
+	a--;									// a, 1이 빠짐
+
+	while (a > 0)
+	{
+		b++;
+		a = a - b;							// a, 2 빠짐
+
+		// 나누어 떨어지면
+		if (a % b == 0)
+		{
+			for (i = 1; i < b; i++)
+			{
+				cout << (a / b) + i << " + ";
+			}
+			// 마지막 숫자 출력
+			cout << (a / b) + i << " = " << temp << endl;
+			count++;
+		}
+	}
+	cout << count << endl;
 	return 0;
 }
+*/
