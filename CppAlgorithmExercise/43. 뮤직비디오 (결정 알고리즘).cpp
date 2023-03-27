@@ -27,8 +27,63 @@
 #include<algorithm>
 using namespace std;
 
-int main()
-{
-
-	return 0;
-}
+//int a[1001], n;
+//
+//int Count(int size)
+//{
+//	int i, cnt = 1, sum = 0;
+//
+//	for (i = 0; i <= n; i++)
+//	{
+//		if (sum + a[i] > size)
+//		{
+//			// 크면 증가, 새롭게 초기화
+//			cnt++;
+//			sum = a[i];
+//		}
+//		else
+//		{
+//			// 작거나 같으면 누적
+//			sum += a[i];
+//		}
+//	}
+//	return cnt;
+//}
+//
+//int main()
+//{
+//	/*이분 검색으로 좁혀 나감.
+//	1 ~ 45, 1 ~ 22, 12 ~ 22, -> 17 */
+//	int dvd, i, left = 1, right = 0, mid, result, max = -2147000000;
+//
+//	cin >> n >> dvd;
+//
+//	for (i = 0; i <= dvd; i++)
+//	{
+//		cin >> a[i];
+//
+//		// 총시간
+//		right = right + a[i];
+//
+//		if (a[i] > max)
+//			max = a[i];
+//	}
+//
+//	// 이분 검색
+//	while (left <= right)
+//	{
+//		mid = (left + right) / 2;
+//		if (mid >= max && Count(mid) <= dvd)
+//		{
+//			result = mid;
+//			right = mid - 1;
+//		}
+//		else
+//		{
+//			left = mid + 1;
+//		}
+//		cout << result;
+//	}
+//
+//	return 0;
+//}

@@ -172,12 +172,20 @@
     <ClCompile Include="41. 연속된 자연수의 합 (단순 수리).cpp" />
     <ClCompile Include="42. 이분 검색.cpp" />
     <ClCompile Include="43. 뮤직비디오 (결정 알고리즘).cpp" />
+    <ClCompile Include="44. 마구간 정하기 (결정 알고리즘).cpp" />
+    <ClCompile Include="45. 공주 구하기.cpp" />
     <ClCompile Include="5. 나이계산%28문자 컨트롤%29.cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />
     <ClCompile Include="8. 올바른 괄호 (문자열 컨트롤).cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="38. Inversion Sequence.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CppAlgorithmExercise.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
