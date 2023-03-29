@@ -21,48 +21,48 @@ N과 K가 주어질 때 공주를 구하러 갈 왕자의 번호를 출력하는 프로그램을 작성하시오.
 #include<algorithm>
 using namespace std;
 
-int main()
-{
-	int n, k, pos = 0, breakPoint = 0, count = 0;			//k : 특정 숫자 ,count -> 0의 갯수 세는 것
-
-	cin >> n >> k;
-	vector<int> prince(n + 1);
-
-	// 시뮬레이션 시작. 1 -> 무한
-	while (1)
-	{
-		pos++;
-		// 즉, 입력한 최대 수가 넘어서면 1로 초기화
-		if (pos > n)
-			pos = 1;
-
-		if (prince[pos] == 0)
-		{
-			count++;
-			// count = k 이 되면 out
-			if (count == k)
-			{
-				prince[pos] = 1;
-				count = 0;			// 초기화
-				breakPoint++;
-			}
-		}
-
-		// 멈추는 시점
-		if (breakPoint == n - 1)
-			break;
-	}
-
-	// 출력
-	for (int i = 1; i <= n; i++)
-	{
-		// 0 인 사람이 살아남은 사람
-		if (prince[i] == 0)
-		{
-			cout << i;
-			break;
-		}
-	}
-
-	return 0;
-}
+//int main()
+//{
+//	int n, k, pos = 0, breakPoint = 0, count = 0;			//k : 특정 숫자 ,count -> 0의 갯수 세는 것
+//
+//	cin >> n >> k;
+//	vector<int> prince(n + 1);
+//
+//	// 시뮬레이션 시작. 1 -> 무한
+//	while (1)
+//	{
+//		pos++;
+//		// 즉, 입력한 최대 수가 넘어서면 1로 초기화
+//		if (pos > n)
+//			pos = 1;
+//
+//		if (prince[pos] == 0)
+//		{
+//			count++;
+//			// count = k 이 되면 out
+//			if (count == k)
+//			{
+//				prince[pos] = 1;
+//				count = 0;			// 초기화
+//				breakPoint++;
+//			}
+//		}
+//
+//		// 멈추는 시점
+//		if (breakPoint == n - 1)
+//			break;
+//	}
+//
+//	// 출력
+//	for (int i = 1; i <= n; i++)
+//	{
+//		// 0 인 사람이 살아남은 사람
+//		if (prince[i] == 0)
+//		{
+//			cout << i;
+//			break;
+//		}
+//	}
+//
+//	return 0;
+//}
