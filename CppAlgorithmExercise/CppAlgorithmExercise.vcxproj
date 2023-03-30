@@ -177,7 +177,9 @@
     <ClCompile Include="46. 멀티태스킹%28카카오 먹방 문제 변형%29.cpp" />
     <ClCompile Include="47. 봉우리 (2차원 배열 탐색).cpp" />
     <ClCompile Include="48. 각 행의 평균과 가장 가까운 값 (2차원 배열 탐색).cpp" />
+    <ClCompile Include="49. 블록의 최댓 값.cpp" />
     <ClCompile Include="5. 나이계산%28문자 컨트롤%29.cpp" />
+    <ClCompile Include="50. 영지(territory) 선택(small 2차원 배열 브루트포스).cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />
     <ClCompile Include="8. 올바른 괄호 (문자열 컨트롤).cpp" />

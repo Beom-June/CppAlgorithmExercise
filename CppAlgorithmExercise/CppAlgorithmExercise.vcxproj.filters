@@ -147,6 +147,12 @@
     <ClCompile Include="48. 각 행의 평균과 가장 가까운 값 (2차원 배열 탐색).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="49. 블록의 최댓 값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="50. 영지(territory) 선택(small 2차원 배열 브루트포스).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

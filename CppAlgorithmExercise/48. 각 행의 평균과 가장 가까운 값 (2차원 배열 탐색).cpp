@@ -38,6 +38,7 @@
 #include<algorithm>
 using namespace std;
 
+/*
 int a[10][10];
 
 int main()
@@ -80,3 +81,4 @@ int main()
 
 	return 0;
 }
+*/
