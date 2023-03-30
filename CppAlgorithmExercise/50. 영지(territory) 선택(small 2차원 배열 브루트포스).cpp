@@ -75,7 +75,7 @@ int main()
 			// 최대값 찾기
 			if (sum > max)
 			{
-				sum = max;
+				max = sum;
 			}
 		}
 	}
