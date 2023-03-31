@@ -153,6 +153,12 @@
     <ClCompile Include="50. 영지(territory) 선택(small 2차원 배열 브루트포스).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="51. 영지(territory) 선택 (large).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="52. Ugly Numbers (소인수 분해).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
