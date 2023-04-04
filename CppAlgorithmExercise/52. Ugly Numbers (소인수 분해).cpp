@@ -21,16 +21,16 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
-
+/*
 int a[1501];
 
 int main()
 {
-	int n, i, p2 = 1, p3 = 1, p5 =1 , min = 214700000;
+	int n, i, p2, p3, p5, min = 214700000;
 
 	cin >> n;
 	a[1] = 1;
-	//p2 = p3 = p5 = 1;
+	p2 = p3 = p5 = 1;
 
 	for (i = 2; i <= n; i++)
 	{
@@ -41,15 +41,15 @@ int main()
 			min = a[p3] * 3;
 
 		// 2번째 비교
-		if (a[5] * 5 < min)
+		if (a[p5] * 5 < min)
 			min = a[p5] * 5;
 
 		// 중복 회피
-		if (a[p2] == min)
+		if (a[p2] * 2 == min)
 			p2++;
-		if (a[p3] == min)
+		if (a[p3] * 3 == min)
 			p3++;
-		if (a[p5] == min)
+		if (a[p5] * 5 == min)
 			p5++;
 
 		a[i] = min;
@@ -59,3 +59,4 @@ int main()
 
 	return 0;
 }
+*/

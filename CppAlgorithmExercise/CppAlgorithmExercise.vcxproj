@@ -182,6 +182,11 @@
     <ClCompile Include="50. 영지(territory) 선택(small 2차원 배열 브루트포스).cpp" />
     <ClCompile Include="51. 영지(territory) 선택 (large).cpp" />
     <ClCompile Include="52. Ugly Numbers (소인수 분해).cpp" />
+    <ClCompile Include="53. K진수 출력%28Stack%29.cpp" />
+    <ClCompile Include="54. 올바른 괄호(stack).cpp" />
+    <ClCompile Include="55. 기차 운행 (Stack).cpp" />
+    <ClCompile Include="56. 재귀함수 분석.cpp" />
+    <ClCompile Include="57. 재귀함수 이진수 출력.cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />
     <ClCompile Include="8. 올바른 괄호 (문자열 컨트롤).cpp" />

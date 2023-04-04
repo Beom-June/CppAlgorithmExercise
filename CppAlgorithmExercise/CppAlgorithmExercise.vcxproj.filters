@@ -159,6 +159,21 @@
     <ClCompile Include="52. Ugly Numbers (소인수 분해).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="53. K진수 출력%28Stack%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="54. 올바른 괄호(stack).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55. 기차 운행 (Stack).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="56. 재귀함수 분석.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="57. 재귀함수 이진수 출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
