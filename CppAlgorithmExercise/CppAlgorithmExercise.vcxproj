@@ -187,7 +187,10 @@
     <ClCompile Include="55. 기차 운행 (Stack).cpp" />
     <ClCompile Include="56. 재귀함수 분석.cpp" />
     <ClCompile Include="57. 재귀함수 이진수 출력.cpp" />
+    <ClCompile Include="58. 이진트리 깊이우선탐색(DFS).cpp" />
+    <ClCompile Include="59. 부분 집합 (DFS).cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
+    <ClCompile Include="60. 합이 같은 부분집합(DFS 아마존 인터뷰).cpp" />
     <ClCompile Include="7. 영어단어 복구(문자열 컨트롤).cpp" />
     <ClCompile Include="8. 올바른 괄호 (문자열 컨트롤).cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
