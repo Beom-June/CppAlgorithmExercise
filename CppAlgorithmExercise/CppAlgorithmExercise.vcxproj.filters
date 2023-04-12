@@ -198,6 +198,12 @@
     <ClCompile Include="65. 미로탐색 (2차원 배열 DFS).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="66. 경로 탐색 (DFS 인접 리스트 방법).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="67. 최소비용 (DFS 인접행렬).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
