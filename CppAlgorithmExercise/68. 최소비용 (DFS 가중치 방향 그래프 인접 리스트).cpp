@@ -26,12 +26,51 @@
 #include<algorithm>
 using namespace std;
 
+/*
+int check[30], n, cost = 214700000;
+vector<pair<int, int> > map[30];
 
-int map[30][30], check[30];
+void DFS(int v, int sum)
+{
+	if (v == n)
+	{
+		if (sum < cost)
+			cost = sum;
+	}
+	else
+	{
+		for (int i = 0; i < map[v].size(); i++)
+		{
+			// v에서 갈 수 있는 정점 번호 == 0 -> 방문 X
+			if (check[map[v][i].first] == 0)
+			{
+				check[map[v][i].first] = 1;
+				// 노드 번호, 가중치 값 더하기
+				DFS(map[v][i].first, sum + map[v][i].second);
+				check[map[v][i].first] = 0;
+			}
+		}
+	}
+}
 
 int main()
 {
+	//pair<int, int> p;					// C#에서 Dictionary랑 같은 듯
+	
+	int m, a, b, c;						// b : 정점, c : 가중치 값
 
+	cin >> n >> m;
+
+	for (int i = 1; i <= m; i++)
+	{
+		cin >> a >> b >> c;
+		map[a].push_back(make_pair(b, c));
+	}
+	check[1] = 1;
+	DFS(1, 0);
+
+	cout << cost;
 
 	return 0;
 }
+*/
