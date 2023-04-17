@@ -225,6 +225,12 @@
     <ClCompile Include="74. 최소힙 (priority_queue 우선순위 큐).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="75. 최대 수입 스케쥴 (priority_queue 응용 문제).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체를 이용한 STL vector 정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
