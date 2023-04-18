@@ -234,6 +234,18 @@
     <ClCompile Include="76. 이항계수 (메모이제이션).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="77. 친구인가 (Union Find 자료구조).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="78. 원더랜드 (Kruskal MST 알고리즘. Union Find 활용) .cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="79. 원더랜드 (Prim MST 알고리즘. priority_queue 활용).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="80. 다익스트라 알고리즘.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

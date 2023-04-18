@@ -208,7 +208,11 @@
     <ClCompile Include="74. 최소힙 (priority_queue 우선순위 큐).cpp" />
     <ClCompile Include="75. 최대 수입 스케쥴 (priority_queue 응용 문제).cpp" />
     <ClCompile Include="76. 이항계수 (메모이제이션).cpp" />
+    <ClCompile Include="77. 친구인가 (Union Find 자료구조).cpp" />
+    <ClCompile Include="78. 원더랜드 (Kruskal MST 알고리즘. Union Find 활용) .cpp" />
+    <ClCompile Include="79. 원더랜드 (Prim MST 알고리즘. priority_queue 활용).cpp" />
     <ClCompile Include="8. 올바른 괄호 (문자열 컨트롤).cpp" />
+    <ClCompile Include="80. 다익스트라 알고리즘.cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="38. Inversion Sequence.cpp" />
     <ClCompile Include="구조체를 이용한 STL vector 정렬.cpp" />
