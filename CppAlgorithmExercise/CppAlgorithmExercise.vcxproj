@@ -213,6 +213,8 @@
     <ClCompile Include="79. 원더랜드 (Prim MST 알고리즘. priority_queue 활용).cpp" />
     <ClCompile Include="8. 올바른 괄호 (문자열 컨트롤).cpp" />
     <ClCompile Include="80. 다익스트라 알고리즘.cpp" />
+    <ClCompile Include="81. 벨만-포드 알고리즘.cpp" />
+    <ClCompile Include="82. 순열 구하기 (DFS Depth First Search).cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="38. Inversion Sequence.cpp" />
     <ClCompile Include="구조체를 이용한 STL vector 정렬.cpp" />

@@ -246,6 +246,12 @@
     <ClCompile Include="80. 다익스트라 알고리즘.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="81. 벨만-포드 알고리즘.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="82. 순열 구하기 (DFS Depth First Search).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
