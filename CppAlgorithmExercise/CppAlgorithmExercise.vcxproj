@@ -218,6 +218,7 @@
     <ClCompile Include="83. 복면산 SEND + MORE  = MONEY (MS 인터뷰).cpp" />
     <ClCompile Include="84. 휴가 (삼성 SW 역량 평가 문제. DFS 활용).cpp" />
     <ClCompile Include="85. 수식 만들기 (DFS 활용).cpp" />
+    <ClCompile Include="86. 피자 배달 거리 (DFS 활용).cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="38. Inversion Sequence.cpp" />
     <ClCompile Include="구조체를 이용한 STL vector 정렬.cpp" />
