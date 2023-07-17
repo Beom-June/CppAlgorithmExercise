@@ -219,8 +219,12 @@
     <ClCompile Include="84. 휴가 (삼성 SW 역량 평가 문제. DFS 활용).cpp" />
     <ClCompile Include="85. 수식 만들기 (DFS 활용).cpp" />
     <ClCompile Include="86. 피자 배달 거리 (DFS 활용).cpp" />
+    <ClCompile Include="87. 섬나라 아일랜드 (BFS 활용).cpp" />
+    <ClCompile Include="88. 미로의 최단거리 통로 (BFS 활용).cpp" />
+    <ClCompile Include="89. 토마토 (BFS 활용).cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="38. Inversion Sequence.cpp" />
+    <ClCompile Include="90. 라이언 킹 심바 (BFS 활용).cpp" />
     <ClCompile Include="구조체를 이용한 STL vector 정렬.cpp" />
     <ClCompile Include="조합 구하기.cpp" />
   </ItemGroup>
